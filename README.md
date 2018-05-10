@@ -1,2 +1,0 @@
-spring-boot-jaxrs-sample
-========================
